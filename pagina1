@@ -1,1 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Página 1</title>
+</head>
+<body>
 
+    <button onclick="location.href='index.html'">
+        Volver al Inicio
+    </button>
+
+</body>
+</html>
